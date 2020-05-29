@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PlantTalk/static/css/main.10d46ba1.chunk.css",
-    "main.js": "/PlantTalk/static/js/main.a04df401.chunk.js",
-    "main.js.map": "/PlantTalk/static/js/main.a04df401.chunk.js.map",
+    "main.css": "/PlantTalk/static/css/main.69c6720e.chunk.css",
+    "main.js": "/PlantTalk/static/js/main.6e702226.chunk.js",
+    "main.js.map": "/PlantTalk/static/js/main.6e702226.chunk.js.map",
     "runtime-main.js": "/PlantTalk/static/js/runtime-main.0aec62b3.js",
     "runtime-main.js.map": "/PlantTalk/static/js/runtime-main.0aec62b3.js.map",
     "static/css/2.08112f1f.chunk.css": "/PlantTalk/static/css/2.08112f1f.chunk.css",
-    "static/js/2.6db7daef.chunk.js": "/PlantTalk/static/js/2.6db7daef.chunk.js",
-    "static/js/2.6db7daef.chunk.js.map": "/PlantTalk/static/js/2.6db7daef.chunk.js.map",
+    "static/js/2.69384c99.chunk.js": "/PlantTalk/static/js/2.69384c99.chunk.js",
+    "static/js/2.69384c99.chunk.js.map": "/PlantTalk/static/js/2.69384c99.chunk.js.map",
     "index.html": "/PlantTalk/index.html",
-    "precache-manifest.6693f378a12281b1829c54cab3e17d11.js": "/PlantTalk/precache-manifest.6693f378a12281b1829c54cab3e17d11.js",
+    "precache-manifest.c8edb002d22bd9012391946194f68299.js": "/PlantTalk/precache-manifest.c8edb002d22bd9012391946194f68299.js",
     "service-worker.js": "/PlantTalk/service-worker.js",
     "static/css/2.08112f1f.chunk.css.map": "/PlantTalk/static/css/2.08112f1f.chunk.css.map",
-    "static/css/main.10d46ba1.chunk.css.map": "/PlantTalk/static/css/main.10d46ba1.chunk.css.map",
-    "static/js/2.6db7daef.chunk.js.LICENSE.txt": "/PlantTalk/static/js/2.6db7daef.chunk.js.LICENSE.txt",
+    "static/css/main.69c6720e.chunk.css.map": "/PlantTalk/static/css/main.69c6720e.chunk.css.map",
+    "static/js/2.69384c99.chunk.js.LICENSE.txt": "/PlantTalk/static/js/2.69384c99.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/PlantTalk/static/media/1.714ec8b3.jpg",
     "static/media/2.jpg": "/PlantTalk/static/media/2.904b534f.jpg",
     "static/media/23.jpg": "/PlantTalk/static/media/23.7509951c.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.0aec62b3.js",
     "static/css/2.08112f1f.chunk.css",
-    "static/js/2.6db7daef.chunk.js",
-    "static/css/main.10d46ba1.chunk.css",
-    "static/js/main.a04df401.chunk.js"
+    "static/js/2.69384c99.chunk.js",
+    "static/css/main.69c6720e.chunk.css",
+    "static/js/main.6e702226.chunk.js"
   ]
 }
