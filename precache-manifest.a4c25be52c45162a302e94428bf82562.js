@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d77e4b84c972396bfc54a37882a7d000",
+    "revision": "679d0360ee809e006982b875ec2904f5",
     "url": "/MyPlantsTalk/index.html"
   },
   {
-    "revision": "cf97a726e9f0bced535e",
+    "revision": "5000f57ff4192f8efa1b",
     "url": "/MyPlantsTalk/static/css/2.16cb37c1.chunk.css"
   },
   {
-    "revision": "1e1397724813d1385e8d",
-    "url": "/MyPlantsTalk/static/css/main.9a6f0b5d.chunk.css"
+    "revision": "f3bae75046eb082a7f7a",
+    "url": "/MyPlantsTalk/static/css/main.2f26908f.chunk.css"
   },
   {
-    "revision": "cf97a726e9f0bced535e",
-    "url": "/MyPlantsTalk/static/js/2.5ca856b5.chunk.js"
+    "revision": "5000f57ff4192f8efa1b",
+    "url": "/MyPlantsTalk/static/js/2.a00512e1.chunk.js"
   },
   {
     "revision": "cacaf3f01dd3bd8237006f7c58951c1c",
-    "url": "/MyPlantsTalk/static/js/2.5ca856b5.chunk.js.LICENSE.txt"
+    "url": "/MyPlantsTalk/static/js/2.a00512e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e1397724813d1385e8d",
-    "url": "/MyPlantsTalk/static/js/main.d9b08657.chunk.js"
+    "revision": "f3bae75046eb082a7f7a",
+    "url": "/MyPlantsTalk/static/js/main.210d7af6.chunk.js"
   },
   {
     "revision": "ecb5d2095d437dd43944",
@@ -46,6 +46,54 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d454ee179d3d26f48c8618d88d74b4d",
     "url": "/MyPlantsTalk/static/media/3.9d454ee1.jpg"
+  },
+  {
+    "revision": "74beb603cd05dc439309b67af1b10bfd",
+    "url": "/MyPlantsTalk/static/media/Air Purifier.74beb603.jpg"
+  },
+  {
+    "revision": "03ba967d62ec304a8ab098ff24ec17b8",
+    "url": "/MyPlantsTalk/static/media/Cacti.03ba967d.jpg"
+  },
+  {
+    "revision": "c0397fa7d6791fd8c62e8735916b7bbd",
+    "url": "/MyPlantsTalk/static/media/Climber.c0397fa7.jpg"
+  },
+  {
+    "revision": "62b8fcf2c5ba3e44fd772f784b096c46",
+    "url": "/MyPlantsTalk/static/media/Ferns.62b8fcf2.jpg"
+  },
+  {
+    "revision": "e1e4d3d64e73a5adcbcee17bf3dbd25e",
+    "url": "/MyPlantsTalk/static/media/Flowering.e1e4d3d6.jpg"
+  },
+  {
+    "revision": "1a14def9fee3d58b390378d44fd889fa",
+    "url": "/MyPlantsTalk/static/media/Foilage.1a14def9.jpg"
+  },
+  {
+    "revision": "f4eeb1724496de8933aafb0548ce1be3",
+    "url": "/MyPlantsTalk/static/media/Fruit Bearing.f4eeb172.jpg"
+  },
+  {
+    "revision": "c79b2af2a6254dd094e66592f383cabe",
+    "url": "/MyPlantsTalk/static/media/Indoor Palm.c79b2af2.jpg"
+  },
+  {
+    "revision": "2e13b7090121d5b5f49127d99f9ab25a",
+    "url": "/MyPlantsTalk/static/media/Indoor Tree.2e13b709.jpg"
+  },
+  {
+    "revision": "09aee482e666b483244e0da25897793b",
+    "url": "/MyPlantsTalk/static/media/Medicinal.09aee482.jpg"
+  },
+  {
+    "revision": "758b407356d14053f44879d25955d062",
+    "url": "/MyPlantsTalk/static/media/Succulent.758b4073.jpg"
+  },
+  {
+    "revision": "e714da859108976a54697d4ad424fa5e",
+    "url": "/MyPlantsTalk/static/media/Tropical.e714da85.jpg"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
