@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5aa2e58e391305624e66819f1ff3d129",
+    "revision": "2eba3bff7ab01f4ca4467505fb125c82",
     "url": "/MyPlantsTalk/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/css/2.16cb37c1.chunk.css"
   },
   {
-    "revision": "2535f79a694f0c5ddf50",
+    "revision": "c9d0b59466225cc58b6f",
     "url": "/MyPlantsTalk/static/css/main.e4298381.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/js/2.98278c14.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2535f79a694f0c5ddf50",
-    "url": "/MyPlantsTalk/static/js/main.9c80c616.chunk.js"
+    "revision": "c9d0b59466225cc58b6f",
+    "url": "/MyPlantsTalk/static/js/main.30a8b5a4.chunk.js"
   },
   {
     "revision": "ecb5d2095d437dd43944",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MyPlantsTalk/static/css/main.e4298381.chunk.css",
-    "main.js": "/MyPlantsTalk/static/js/main.9c80c616.chunk.js",
-    "main.js.map": "/MyPlantsTalk/static/js/main.9c80c616.chunk.js.map",
+    "main.js": "/MyPlantsTalk/static/js/main.30a8b5a4.chunk.js",
+    "main.js.map": "/MyPlantsTalk/static/js/main.30a8b5a4.chunk.js.map",
     "runtime-main.js": "/MyPlantsTalk/static/js/runtime-main.c9b86d85.js",
     "runtime-main.js.map": "/MyPlantsTalk/static/js/runtime-main.c9b86d85.js.map",
     "static/css/2.16cb37c1.chunk.css": "/MyPlantsTalk/static/css/2.16cb37c1.chunk.css",
     "static/js/2.98278c14.chunk.js": "/MyPlantsTalk/static/js/2.98278c14.chunk.js",
     "static/js/2.98278c14.chunk.js.map": "/MyPlantsTalk/static/js/2.98278c14.chunk.js.map",
     "index.html": "/MyPlantsTalk/index.html",
-    "precache-manifest.8e26b613da097897fe029628d465dee6.js": "/MyPlantsTalk/precache-manifest.8e26b613da097897fe029628d465dee6.js",
+    "precache-manifest.0544048875314e440675c4a6b9563cf0.js": "/MyPlantsTalk/precache-manifest.0544048875314e440675c4a6b9563cf0.js",
     "service-worker.js": "/MyPlantsTalk/service-worker.js",
     "static/css/2.16cb37c1.chunk.css.map": "/MyPlantsTalk/static/css/2.16cb37c1.chunk.css.map",
     "static/css/main.e4298381.chunk.css.map": "/MyPlantsTalk/static/css/main.e4298381.chunk.css.map",
@@ -161,6 +161,6 @@
     "static/css/2.16cb37c1.chunk.css",
     "static/js/2.98278c14.chunk.js",
     "static/css/main.e4298381.chunk.css",
-    "static/js/main.9c80c616.chunk.js"
+    "static/js/main.30a8b5a4.chunk.js"
   ]
 }
