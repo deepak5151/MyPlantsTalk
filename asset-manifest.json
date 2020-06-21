@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MyPlantsTalk/static/css/main.e4298381.chunk.css",
-    "main.js": "/MyPlantsTalk/static/js/main.30a8b5a4.chunk.js",
-    "main.js.map": "/MyPlantsTalk/static/js/main.30a8b5a4.chunk.js.map",
+    "main.css": "/MyPlantsTalk/static/css/main.4616cec7.chunk.css",
+    "main.js": "/MyPlantsTalk/static/js/main.9e4dafdc.chunk.js",
+    "main.js.map": "/MyPlantsTalk/static/js/main.9e4dafdc.chunk.js.map",
     "runtime-main.js": "/MyPlantsTalk/static/js/runtime-main.c9b86d85.js",
     "runtime-main.js.map": "/MyPlantsTalk/static/js/runtime-main.c9b86d85.js.map",
-    "static/css/2.16cb37c1.chunk.css": "/MyPlantsTalk/static/css/2.16cb37c1.chunk.css",
-    "static/js/2.98278c14.chunk.js": "/MyPlantsTalk/static/js/2.98278c14.chunk.js",
-    "static/js/2.98278c14.chunk.js.map": "/MyPlantsTalk/static/js/2.98278c14.chunk.js.map",
+    "static/css/2.3a1b1044.chunk.css": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css",
+    "static/js/2.ead111aa.chunk.js": "/MyPlantsTalk/static/js/2.ead111aa.chunk.js",
+    "static/js/2.ead111aa.chunk.js.map": "/MyPlantsTalk/static/js/2.ead111aa.chunk.js.map",
     "index.html": "/MyPlantsTalk/index.html",
-    "precache-manifest.0544048875314e440675c4a6b9563cf0.js": "/MyPlantsTalk/precache-manifest.0544048875314e440675c4a6b9563cf0.js",
+    "precache-manifest.e08aa6e672319249bcfbe42e4bd3691d.js": "/MyPlantsTalk/precache-manifest.e08aa6e672319249bcfbe42e4bd3691d.js",
     "service-worker.js": "/MyPlantsTalk/service-worker.js",
-    "static/css/2.16cb37c1.chunk.css.map": "/MyPlantsTalk/static/css/2.16cb37c1.chunk.css.map",
-    "static/css/main.e4298381.chunk.css.map": "/MyPlantsTalk/static/css/main.e4298381.chunk.css.map",
-    "static/js/2.98278c14.chunk.js.LICENSE.txt": "/MyPlantsTalk/static/js/2.98278c14.chunk.js.LICENSE.txt",
+    "static/css/2.3a1b1044.chunk.css.map": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css.map",
+    "static/css/main.4616cec7.chunk.css.map": "/MyPlantsTalk/static/css/main.4616cec7.chunk.css.map",
+    "static/js/2.ead111aa.chunk.js.LICENSE.txt": "/MyPlantsTalk/static/js/2.ead111aa.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/MyPlantsTalk/static/media/1.714ec8b3.jpg",
     "static/media/2.jpg": "/MyPlantsTalk/static/media/2.904b534f.jpg",
     "static/media/App.css": "/MyPlantsTalk/static/media/35.a95a1feb.jpg",
@@ -152,15 +152,14 @@
     "static/media/umbrellaplant,queenslandumbrellatree,octupustree,goldcapella.jpeg": "/MyPlantsTalk/static/media/umbrellaplant,queenslandumbrellatree,octupustree,goldcapella.3bdcb3ff.jpeg",
     "static/media/umbrellaplant.jpeg": "/MyPlantsTalk/static/media/umbrellaplant.b1e32726.jpeg",
     "static/media/watermelonpeperomia.jpeg": "/MyPlantsTalk/static/media/watermelonpeperomia.c088eb92.jpeg",
-    "static/media/weather-icons.css": "/MyPlantsTalk/static/media/weathericons-regular-webfont.ed0943f2.svg",
     "static/media/wintercherry.jpeg": "/MyPlantsTalk/static/media/wintercherry.0f6f61b3.jpeg",
     "static/media/zzplant.jpeg": "/MyPlantsTalk/static/media/zzplant.0ad83f5e.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.c9b86d85.js",
-    "static/css/2.16cb37c1.chunk.css",
-    "static/js/2.98278c14.chunk.js",
-    "static/css/main.e4298381.chunk.css",
-    "static/js/main.30a8b5a4.chunk.js"
+    "static/css/2.3a1b1044.chunk.css",
+    "static/js/2.ead111aa.chunk.js",
+    "static/css/main.4616cec7.chunk.css",
+    "static/js/main.9e4dafdc.chunk.js"
   ]
 }

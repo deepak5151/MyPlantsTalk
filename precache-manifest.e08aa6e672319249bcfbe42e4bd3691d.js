@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2eba3bff7ab01f4ca4467505fb125c82",
+    "revision": "64fbf88bfd6db108ab0557b9670bc81e",
     "url": "/MyPlantsTalk/index.html"
   },
   {
-    "revision": "ff30bcc54d97b62ef991",
-    "url": "/MyPlantsTalk/static/css/2.16cb37c1.chunk.css"
+    "revision": "2aba772c44555fa893eb",
+    "url": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css"
   },
   {
-    "revision": "c9d0b59466225cc58b6f",
-    "url": "/MyPlantsTalk/static/css/main.e4298381.chunk.css"
+    "revision": "55dadb61e8b6c36c728f",
+    "url": "/MyPlantsTalk/static/css/main.4616cec7.chunk.css"
   },
   {
-    "revision": "ff30bcc54d97b62ef991",
-    "url": "/MyPlantsTalk/static/js/2.98278c14.chunk.js"
+    "revision": "2aba772c44555fa893eb",
+    "url": "/MyPlantsTalk/static/js/2.ead111aa.chunk.js"
   },
   {
     "revision": "cacaf3f01dd3bd8237006f7c58951c1c",
-    "url": "/MyPlantsTalk/static/js/2.98278c14.chunk.js.LICENSE.txt"
+    "url": "/MyPlantsTalk/static/js/2.ead111aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9d0b59466225cc58b6f",
-    "url": "/MyPlantsTalk/static/js/main.30a8b5a4.chunk.js"
+    "revision": "55dadb61e8b6c36c728f",
+    "url": "/MyPlantsTalk/static/js/main.9e4dafdc.chunk.js"
   },
   {
     "revision": "ecb5d2095d437dd43944",
@@ -606,26 +606,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c088eb92f372bb7bf1d00e6cca321f66",
     "url": "/MyPlantsTalk/static/media/watermelonpeperomia.c088eb92.jpeg"
-  },
-  {
-    "revision": "1cd48d78f06d33973d9d761d426e69bf",
-    "url": "/MyPlantsTalk/static/media/weathericons-regular-webfont.1cd48d78.woff2"
-  },
-  {
-    "revision": "4618f0de2a818e7ad3fe880e0b74d04a",
-    "url": "/MyPlantsTalk/static/media/weathericons-regular-webfont.4618f0de.ttf"
-  },
-  {
-    "revision": "4b658767da6bd92ce2addb3ce512784d",
-    "url": "/MyPlantsTalk/static/media/weathericons-regular-webfont.4b658767.eot"
-  },
-  {
-    "revision": "8cac70ebda3f23ce472110d9f21e8593",
-    "url": "/MyPlantsTalk/static/media/weathericons-regular-webfont.8cac70eb.woff"
-  },
-  {
-    "revision": "ed0943f224d6a39871066f569a18fa60",
-    "url": "/MyPlantsTalk/static/media/weathericons-regular-webfont.ed0943f2.svg"
   },
   {
     "revision": "0f6f61b3f7b6f716f86b125d962054ca",
