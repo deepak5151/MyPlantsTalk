@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MyPlantsTalk/static/css/main.f0b06d62.chunk.css",
-    "main.js": "/MyPlantsTalk/static/js/main.328b7535.chunk.js",
-    "main.js.map": "/MyPlantsTalk/static/js/main.328b7535.chunk.js.map",
+    "main.css": "/MyPlantsTalk/static/css/main.4fc6f4ea.chunk.css",
+    "main.js": "/MyPlantsTalk/static/js/main.1672a872.chunk.js",
+    "main.js.map": "/MyPlantsTalk/static/js/main.1672a872.chunk.js.map",
     "runtime-main.js": "/MyPlantsTalk/static/js/runtime-main.c9b86d85.js",
     "runtime-main.js.map": "/MyPlantsTalk/static/js/runtime-main.c9b86d85.js.map",
     "static/css/2.3a1b1044.chunk.css": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css",
     "static/js/2.6a865c91.chunk.js": "/MyPlantsTalk/static/js/2.6a865c91.chunk.js",
     "static/js/2.6a865c91.chunk.js.map": "/MyPlantsTalk/static/js/2.6a865c91.chunk.js.map",
     "index.html": "/MyPlantsTalk/index.html",
-    "precache-manifest.6ff7e5c8cee74e0d96565438117fa44f.js": "/MyPlantsTalk/precache-manifest.6ff7e5c8cee74e0d96565438117fa44f.js",
+    "precache-manifest.92ba284e77e0e360007e1d1791ae5e65.js": "/MyPlantsTalk/precache-manifest.92ba284e77e0e360007e1d1791ae5e65.js",
     "service-worker.js": "/MyPlantsTalk/service-worker.js",
     "static/css/2.3a1b1044.chunk.css.map": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css.map",
-    "static/css/main.f0b06d62.chunk.css.map": "/MyPlantsTalk/static/css/main.f0b06d62.chunk.css.map",
+    "static/css/main.4fc6f4ea.chunk.css.map": "/MyPlantsTalk/static/css/main.4fc6f4ea.chunk.css.map",
     "static/js/2.6a865c91.chunk.js.LICENSE.txt": "/MyPlantsTalk/static/js/2.6a865c91.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/MyPlantsTalk/static/media/1.714ec8b3.jpg",
     "static/media/2.jpg": "/MyPlantsTalk/static/media/2.904b534f.jpg",
@@ -191,7 +191,7 @@
     "static/js/runtime-main.c9b86d85.js",
     "static/css/2.3a1b1044.chunk.css",
     "static/js/2.6a865c91.chunk.js",
-    "static/css/main.f0b06d62.chunk.css",
-    "static/js/main.328b7535.chunk.js"
+    "static/css/main.4fc6f4ea.chunk.css",
+    "static/js/main.1672a872.chunk.js"
   ]
 }
