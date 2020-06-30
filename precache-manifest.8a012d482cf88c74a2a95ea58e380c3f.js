@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6cbe29ba49a8f3957252b79f01c03bb",
+    "revision": "19baaf93c23fcc7f779614e43094f5ce",
     "url": "/MyPlantsTalk/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css"
   },
   {
-    "revision": "2787ba517cf86ca99e54",
-    "url": "/MyPlantsTalk/static/css/main.4fc6f4ea.chunk.css"
+    "revision": "5e386780322ec8c9c028",
+    "url": "/MyPlantsTalk/static/css/main.cc428520.chunk.css"
   },
   {
     "revision": "886f79484c8fa7104b1a",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/js/2.6a865c91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2787ba517cf86ca99e54",
-    "url": "/MyPlantsTalk/static/js/main.5af64786.chunk.js"
+    "revision": "5e386780322ec8c9c028",
+    "url": "/MyPlantsTalk/static/js/main.bc9769a5.chunk.js"
   },
   {
     "revision": "ecb5d2095d437dd43944",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/Climber.c0397fa7.jpg"
   },
   {
-    "revision": "62b8fcf2c5ba3e44fd772f784b096c46",
-    "url": "/MyPlantsTalk/static/media/Ferns.62b8fcf2.jpg"
+    "revision": "19c814030771872e49db3c54252b95c3",
+    "url": "/MyPlantsTalk/static/media/Ferns.19c81403.jpg"
   },
   {
     "revision": "e1e4d3d64e73a5adcbcee17bf3dbd25e",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/Indoor Tree.2e13b709.jpg"
   },
   {
-    "revision": "09aee482e666b483244e0da25897793b",
-    "url": "/MyPlantsTalk/static/media/Medicinal.09aee482.jpg"
+    "revision": "c8f4bd3e7b9cb66f38306bd07ce95771",
+    "url": "/MyPlantsTalk/static/media/Medicinal.c8f4bd3e.jpg"
   },
   {
     "revision": "758b407356d14053f44879d25955d062",
