@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MyPlantsTalk/precache-manifest.92ba284e77e0e360007e1d1791ae5e65.js"
+  "/MyPlantsTalk/precache-manifest.ccb83c76411ad639c48d11719a4526ce.js"
 );
 
 self.addEventListener('message', (event) => {
