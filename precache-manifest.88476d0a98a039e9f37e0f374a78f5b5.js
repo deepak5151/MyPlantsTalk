@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbfe4ef377fe79867bc3f048ec8daa38",
+    "revision": "55d1fb8c4a3f74393ab41763a9cb9f3f",
     "url": "/MyPlantsTalk/index.html"
   },
   {
-    "revision": "4d0b0faf53561c42b709",
+    "revision": "5d165cd76985f71b5b11",
     "url": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css"
   },
   {
-    "revision": "fba17a0faa79f5b447f1",
-    "url": "/MyPlantsTalk/static/css/main.a38be0cb.chunk.css"
+    "revision": "55d01c45be0ef9a84876",
+    "url": "/MyPlantsTalk/static/css/main.e3821a10.chunk.css"
   },
   {
-    "revision": "4d0b0faf53561c42b709",
-    "url": "/MyPlantsTalk/static/js/2.3d8ccfe3.chunk.js"
+    "revision": "5d165cd76985f71b5b11",
+    "url": "/MyPlantsTalk/static/js/2.1d6e0045.chunk.js"
   },
   {
     "revision": "885c0e205ef5e79f4aef448a818ba6a1",
-    "url": "/MyPlantsTalk/static/js/2.3d8ccfe3.chunk.js.LICENSE.txt"
+    "url": "/MyPlantsTalk/static/js/2.1d6e0045.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fba17a0faa79f5b447f1",
-    "url": "/MyPlantsTalk/static/js/main.58736f31.chunk.js"
+    "revision": "55d01c45be0ef9a84876",
+    "url": "/MyPlantsTalk/static/js/main.f568528e.chunk.js"
   },
   {
     "revision": "ecb5d2095d437dd43944",
