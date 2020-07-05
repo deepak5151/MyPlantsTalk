@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d769df7a90135c7ca62112fc32e6d61",
+    "revision": "10cea30d49f0c2c7061395bb3dd35b89",
     "url": "/MyPlantsTalk/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css"
   },
   {
-    "revision": "c7852e75effb68e1a8d5",
+    "revision": "8913805a584a9c89a9e9",
     "url": "/MyPlantsTalk/static/css/main.b350b0c8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/js/2.6a865c91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7852e75effb68e1a8d5",
-    "url": "/MyPlantsTalk/static/js/main.422dab6e.chunk.js"
+    "revision": "8913805a584a9c89a9e9",
+    "url": "/MyPlantsTalk/static/js/main.6aee4e43.chunk.js"
   },
   {
     "revision": "ecb5d2095d437dd43944",
@@ -125,7 +125,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9f7340a6123e83b350953332d23f0e4e",
-    "url": "/MyPlantsTalk/static/media/aluminum.9f7340a6.jpeg"
+    "url": "/MyPlantsTalk/static/media/aluminumplant.9f7340a6.jpeg"
   },
   {
     "revision": "616ec8a84eb44dd7f1c4dc62dfb76b8b",
@@ -145,7 +145,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "06e4d31baacc2857e2a4cc6604190157",
-    "url": "/MyPlantsTalk/static/media/arecapalm.06e4d31b.jpeg"
+    "url": "/MyPlantsTalk/static/media/areca,butterfly,orcanepalm.06e4d31b.jpeg"
   },
   {
     "revision": "8c750b1b28bf3b3ba48e56c03b06081a",
@@ -153,7 +153,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "88205655cb40226f4e54ff517a1cf92f",
-    "url": "/MyPlantsTalk/static/media/arrowheadplant.88205655.jpeg"
+    "url": "/MyPlantsTalk/static/media/arrowheadplantorarrowheadvine,goosefootplant.88205655.jpeg"
   },
   {
     "revision": "60a61e736594193b6611801a206d88bf",
@@ -161,7 +161,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "060774d5b309ecb5362e67c2be935737",
-    "url": "/MyPlantsTalk/static/media/belladonnalily.060774d5.jpeg"
+    "url": "/MyPlantsTalk/static/media/belladonnalily,marchlilyandnakedlady.060774d5.jpeg"
   },
   {
     "revision": "3579e1b28ad00ab55ca7cd2ee522a15d",
@@ -197,7 +197,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "17e488a487dd178f6aca775e70702f49",
-    "url": "/MyPlantsTalk/static/media/busylizzie.17e488a4.jpeg"
+    "url": "/MyPlantsTalk/static/media/busylizzieandimpatientlucy.17e488a4.jpeg"
   },
   {
     "revision": "9e81a239c87060a8dd3df5d06639200e",
@@ -217,7 +217,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9054d1eea0f2e51492404a16f3195ec5",
-    "url": "/MyPlantsTalk/static/media/century.9054d1ee.jpeg"
+    "url": "/MyPlantsTalk/static/media/centuryplant,agavecactus,maguey,americanaloe.9054d1ee.jpeg"
   },
   {
     "revision": "723d2a39ec150702765b39df294f1763",
@@ -228,16 +228,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/chinesecroton,blindnesstree,butabuta,junglefireplant.efc4d3e6.jpeg"
   },
   {
+    "revision": "760d73af1383102dd7e625a7c76a23c9",
+    "url": "/MyPlantsTalk/static/media/christmasandholidaycactus.760d73af.jpeg"
+  },
+  {
     "revision": "d9576bd5d1769abad3aa17e66083ec03",
     "url": "/MyPlantsTalk/static/media/christmasandornamentalpepperplant.d9576bd5.jpeg"
   },
   {
-    "revision": "760d73af1383102dd7e625a7c76a23c9",
-    "url": "/MyPlantsTalk/static/media/christmascactus.760d73af.jpeg"
-  },
-  {
     "revision": "0ba180959d0789a32e3c9ab9dcbe2ab9",
-    "url": "/MyPlantsTalk/static/media/coloredpaphiopedilum.0ba18095.jpeg"
+    "url": "/MyPlantsTalk/static/media/coloredpaphiopedilum,lady'sslipper.0ba18095.jpeg"
   },
   {
     "revision": "99c51644f4de796cbe940618169327a6",
@@ -329,7 +329,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "d65e1f44f32b7319f1266e382e43902f",
-    "url": "/MyPlantsTalk/static/media/falseshamrock.d65e1f44.jpeg"
+    "url": "/MyPlantsTalk/static/media/falseshamrock,purplesharock,woodsorrel.d65e1f44.jpeg"
   },
   {
     "revision": "db9284147178e8011feb0a6ed7c2c397",
@@ -384,10 +384,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/gardenmum.bf9b468e.jpeg"
   },
   {
-    "revision": "b098ab7217efd350c5afba1cbfab79bd",
-    "url": "/MyPlantsTalk/static/media/germanprimrose.b098ab72.jpeg"
-  },
-  {
     "revision": "095388ddd28f65ca339320d865fbae42",
     "url": "/MyPlantsTalk/static/media/goat'shorncactus.095388dd.jpeg"
   },
@@ -398,10 +394,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97469da8dd30bf6e7ed59104d0efaf8",
     "url": "/MyPlantsTalk/static/media/goldenpothos.f97469da.jpeg"
-  },
-  {
-    "revision": "17aaf37ea62ff96de15211bc69bbc1a1",
-    "url": "/MyPlantsTalk/static/media/goldenshrimpplant.17aaf37e.jpeg"
   },
   {
     "revision": "12891ad8eb2e8b0b14177774db0d7bd5",
@@ -421,7 +413,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "03d20e5a44f10b9de627c6c9c9ce978d",
-    "url": "/MyPlantsTalk/static/media/hibiscus.03d20e5a.jpeg"
+    "url": "/MyPlantsTalk/static/media/hibiscus,shoeflower.03d20e5a.jpeg"
   },
   {
     "revision": "e966fa4c26d15f816a8ac552b3ffd089",
@@ -429,7 +421,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "79254a43f1ee02f1e70a460bfcbde126",
-    "url": "/MyPlantsTalk/static/media/holybasil.79254a43.jpeg"
+    "url": "/MyPlantsTalk/static/media/holybasil,tulsi.79254a43.jpeg"
   },
   {
     "revision": "e468c0ddd1ae7f4fce0fddcb4508dcf5",
@@ -453,7 +445,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "dbb2cc7344f837bef345fec82a12b514",
-    "url": "/MyPlantsTalk/static/media/kaffirlily.dbb2cc73.jpeg"
+    "url": "/MyPlantsTalk/static/media/kaffirandbushlily.dbb2cc73.jpeg"
   },
   {
     "revision": "ba154a3192522001e896f9f7da44ef88",
@@ -468,12 +460,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/lipstickplant.75ef7a87.jpeg"
   },
   {
+    "revision": "17aaf37ea62ff96de15211bc69bbc1a1",
+    "url": "/MyPlantsTalk/static/media/lollipopandgoldenshrimpplant.17aaf37e.jpeg"
+  },
+  {
     "revision": "8fa224601dcecceb77113df94e555a45",
     "url": "/MyPlantsTalk/static/media/lycaste.8fa22460.jpeg"
   },
   {
     "revision": "ff0e51de2a41d570bc20f0b098d69397",
-    "url": "/MyPlantsTalk/static/media/madagascarjasmine.ff0e51de.jpeg"
+    "url": "/MyPlantsTalk/static/media/madagascarjasmine-waxflower.ff0e51de.jpeg"
   },
   {
     "revision": "0ab82a9e10bbed404e088cf79be8fd7e",
@@ -529,7 +525,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "810e3a0911c98150af82c0f1b5a4af57",
-    "url": "/MyPlantsTalk/static/media/mothorchid.810e3a09.jpeg"
+    "url": "/MyPlantsTalk/static/media/mothorchid,phal.810e3a09.jpeg"
   },
   {
     "revision": "c2cc0a323a2b4093c44fbb4e5b26ebde",
@@ -561,7 +557,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "861715eab9e11ea24fd7f327542583f7",
-    "url": "/MyPlantsTalk/static/media/peacelily(airpurifier).861715ea.jpeg"
+    "url": "/MyPlantsTalk/static/media/peacelily,spatheflower.861715ea.jpeg"
   },
   {
     "revision": "288941c79ce6fd3e429e231a02f88148",
@@ -616,12 +612,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/poinsettia.5b821a42.jpeg"
   },
   {
+    "revision": "b098ab7217efd350c5afba1cbfab79bd",
+    "url": "/MyPlantsTalk/static/media/poisonorgermanprimrose.b098ab72.jpeg"
+  },
+  {
     "revision": "c97bb33990b61cbed39f7200f0715cdf",
     "url": "/MyPlantsTalk/static/media/purpleheart,wanderingjew,purplequeen.c97bb339.jpeg"
   },
   {
     "revision": "32262b9d794a220ce9b81a1e58e04449",
-    "url": "/MyPlantsTalk/static/media/queenstears.32262b9d.jpeg"
+    "url": "/MyPlantsTalk/static/media/queenstears,friendshipplant.32262b9d.jpeg"
   },
   {
     "revision": "ca1deeb33da7a555330c9ca29633704e",
@@ -662,10 +662,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "11c9ec14cdfaccb2e274e541684256e5",
     "url": "/MyPlantsTalk/static/media/silversquill.11c9ec14.jpeg"
-  },
-  {
-    "revision": "6aa1ad4c7e425694a0bb5b66751c6a21",
-    "url": "/MyPlantsTalk/static/media/silvervaseplant.6aa1ad4c.jpeg"
   },
   {
     "revision": "ff217f1750628b7e61b07e3bd629e602",
@@ -709,7 +705,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "e48a0c2003c34fc257f1f2f60662d3a1",
-    "url": "/MyPlantsTalk/static/media/trailingjade.e48a0c20.jpeg"
+    "url": "/MyPlantsTalk/static/media/trailingjade,roundleafpeperomia.e48a0c20.jpeg"
   },
   {
     "revision": "020481040970bc2867b1302ae3f0df65",
@@ -722,6 +718,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c7824c7707eb53d35c42b50ee455bf20",
     "url": "/MyPlantsTalk/static/media/umbrellaplant.c7824c77.jpeg"
+  },
+  {
+    "revision": "6aa1ad4c7e425694a0bb5b66751c6a21",
+    "url": "/MyPlantsTalk/static/media/urnandpinkorsilvervaseplant.6aa1ad4c.jpeg"
   },
   {
     "revision": "c088eb92f372bb7bf1d00e6cca321f66",
