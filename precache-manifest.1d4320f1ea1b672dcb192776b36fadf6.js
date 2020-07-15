@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30527a9f3b5853984ef9491078af1c23",
+    "revision": "8886772bd5dddbd3abd74817506852d4",
     "url": "/MyPlantsTalk/index.html"
   },
   {
-    "revision": "352ec3c3db9c7ed86430",
+    "revision": "57ae8e459d2e34c46d8c",
     "url": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css"
   },
   {
-    "revision": "dea4e34e9a4676d122bd",
-    "url": "/MyPlantsTalk/static/css/main.53ac140d.chunk.css"
+    "revision": "5d47c673c9bffbe21574",
+    "url": "/MyPlantsTalk/static/css/main.d8651d75.chunk.css"
   },
   {
-    "revision": "352ec3c3db9c7ed86430",
-    "url": "/MyPlantsTalk/static/js/2.55e902b9.chunk.js"
+    "revision": "57ae8e459d2e34c46d8c",
+    "url": "/MyPlantsTalk/static/js/2.2c9243c0.chunk.js"
   },
   {
     "revision": "97d410e0440984da9a4e8600e9ae6996",
-    "url": "/MyPlantsTalk/static/js/2.55e902b9.chunk.js.LICENSE.txt"
+    "url": "/MyPlantsTalk/static/js/2.2c9243c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dea4e34e9a4676d122bd",
-    "url": "/MyPlantsTalk/static/js/main.6c6a0f5e.chunk.js"
+    "revision": "5d47c673c9bffbe21574",
+    "url": "/MyPlantsTalk/static/js/main.82edafab.chunk.js"
   },
   {
     "revision": "ecb5d2095d437dd43944",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "714ec8b37c8ff9ea4243d96612446e8d",
     "url": "/MyPlantsTalk/static/media/1.714ec8b3.jpg"
-  },
-  {
-    "revision": "669526657d3e1843cef81f0e2cc98bd1",
-    "url": "/MyPlantsTalk/static/media/18.66952665.jpg"
   },
   {
     "revision": "5332c8430322669d394fd01f0cb2c844",
@@ -100,40 +96,60 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/Climber.c0397fa7.jpg"
   },
   {
+    "revision": "2300358857aef7ec0b48a61c20f69842",
+    "url": "/MyPlantsTalk/static/media/D1.23003588.jpg"
+  },
+  {
     "revision": "5e9f42a4d9ce15918fedc6f79052b80b",
     "url": "/MyPlantsTalk/static/media/D1.5e9f42a4.jpg"
   },
   {
-    "revision": "a81df2ca91517fc830637e782624b7f7",
-    "url": "/MyPlantsTalk/static/media/D2.a81df2ca.jpg"
+    "revision": "48fd6f942cffa02d6702bbf0a58cb429",
+    "url": "/MyPlantsTalk/static/media/D10.48fd6f94.jpg"
+  },
+  {
+    "revision": "37519c482b765845257f3ae0a2ef6f30",
+    "url": "/MyPlantsTalk/static/media/D11.37519c48.jpg"
+  },
+  {
+    "revision": "b792ffc3cf4a7b6850fce25ef06ccdc2",
+    "url": "/MyPlantsTalk/static/media/D2.b792ffc3.jpg"
   },
   {
     "revision": "d93079a4beb0368cbf36be47d5fd4637",
     "url": "/MyPlantsTalk/static/media/D2.d93079a4.jpg"
   },
   {
-    "revision": "c111fae39db767c6fa2393767a58914d",
-    "url": "/MyPlantsTalk/static/media/D3.c111fae3.jpg"
+    "revision": "4e2fb615810e20d6cf0b7ecf158a5bef",
+    "url": "/MyPlantsTalk/static/media/D3.4e2fb615.jpg"
   },
   {
-    "revision": "111be1846453adb03ecd71d541c878a6",
-    "url": "/MyPlantsTalk/static/media/D4.111be184.jpg"
+    "revision": "28a517647f0609040e73517dfbacf088",
+    "url": "/MyPlantsTalk/static/media/D4.28a51764.jpg"
   },
   {
-    "revision": "a5ce20a4714c80ffc0d4162f9e347a7f",
-    "url": "/MyPlantsTalk/static/media/D5.a5ce20a4.jpg"
+    "revision": "9abd2fe261a2203595845430769f5733",
+    "url": "/MyPlantsTalk/static/media/D5.9abd2fe2.jpg"
   },
   {
-    "revision": "1ac2fb89d03c72e02a9843f622761cea",
-    "url": "/MyPlantsTalk/static/media/D6.1ac2fb89.jpg"
+    "revision": "e20f6bca4e8b6413d257a92957d537d0",
+    "url": "/MyPlantsTalk/static/media/D6.e20f6bca.jpg"
   },
   {
-    "revision": "388a23073f86b36c43ddc98165c867b3",
-    "url": "/MyPlantsTalk/static/media/D7.388a2307.jpg"
+    "revision": "c434efd2d30db47d071d231d8503c152",
+    "url": "/MyPlantsTalk/static/media/D7.c434efd2.jpg"
   },
   {
-    "revision": "5c97893221c611b52fc79767c6ef0c49",
-    "url": "/MyPlantsTalk/static/media/Deepak.5c978932.jpg"
+    "revision": "bdbe2731ac9389821028cea301be32d8",
+    "url": "/MyPlantsTalk/static/media/D8.bdbe2731.jpg"
+  },
+  {
+    "revision": "55854dc9185d862e3666edd5ccc3cffc",
+    "url": "/MyPlantsTalk/static/media/D9.55854dc9.jpg"
+  },
+  {
+    "revision": "60751e0b681476128b7d51344330b050",
+    "url": "/MyPlantsTalk/static/media/Deepak.60751e0b.jpg"
   },
   {
     "revision": "19c814030771872e49db3c54252b95c3",
@@ -164,8 +180,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/Indoor Tree.2e13b709.jpg"
   },
   {
-    "revision": "d2cfc866ec359a4394a08da92947a15f",
-    "url": "/MyPlantsTalk/static/media/Kashish.d2cfc866.png"
+    "revision": "f370777475b406b645f61646efc1c85d",
+    "url": "/MyPlantsTalk/static/media/Kashish.f3707774.png"
   },
   {
     "revision": "73af4b8184466757395c2bb9da171b1b",
@@ -176,12 +192,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/Medicinal.68db3115.jpg"
   },
   {
-    "revision": "4e8de7c5b9cf94f59a077e8328931f9d",
-    "url": "/MyPlantsTalk/static/media/Pardeep.4e8de7c5.png"
+    "revision": "64ddc3f4917b55347579f6a06e591bc6",
+    "url": "/MyPlantsTalk/static/media/MyPlantsTalk-Logo.64ddc3f4.png"
   },
   {
-    "revision": "cccaf5699d608ba049f05f547a8d640c",
-    "url": "/MyPlantsTalk/static/media/Prabhjot.cccaf569.png"
+    "revision": "9a858085090f6e0d9c3748300abe36ab",
+    "url": "/MyPlantsTalk/static/media/Pardeep.9a858085.png"
+  },
+  {
+    "revision": "2a7917b4e2fac2fd95fbbb3d06bec7d3",
+    "url": "/MyPlantsTalk/static/media/Prabhjot.2a7917b4.png"
   },
   {
     "revision": "3ddb833bdd30e4cee214a7ec6ee70221",
@@ -196,8 +216,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/Succulent.758b4073.jpg"
   },
   {
-    "revision": "f9b3e0d3939e635609977524347c81fb",
-    "url": "/MyPlantsTalk/static/media/Sumit.f9b3e0d3.png"
+    "revision": "6c90862ded850fab11fa53894e492286",
+    "url": "/MyPlantsTalk/static/media/Sumit.6c90862d.png"
   },
   {
     "revision": "e714da859108976a54697d4ad424fa5e",
