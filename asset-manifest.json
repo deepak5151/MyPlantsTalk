@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MyPlantsTalk/static/css/main.d48f1873.chunk.css",
-    "main.js": "/MyPlantsTalk/static/js/main.21f4bc66.chunk.js",
-    "main.js.map": "/MyPlantsTalk/static/js/main.21f4bc66.chunk.js.map",
+    "main.css": "/MyPlantsTalk/static/css/main.aae2496a.chunk.css",
+    "main.js": "/MyPlantsTalk/static/js/main.bf53643e.chunk.js",
+    "main.js.map": "/MyPlantsTalk/static/js/main.bf53643e.chunk.js.map",
     "runtime-main.js": "/MyPlantsTalk/static/js/runtime-main.c9b86d85.js",
     "runtime-main.js.map": "/MyPlantsTalk/static/js/runtime-main.c9b86d85.js.map",
     "static/css/2.3a1b1044.chunk.css": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css",
-    "static/js/2.41a63e6c.chunk.js": "/MyPlantsTalk/static/js/2.41a63e6c.chunk.js",
-    "static/js/2.41a63e6c.chunk.js.map": "/MyPlantsTalk/static/js/2.41a63e6c.chunk.js.map",
+    "static/js/2.62641990.chunk.js": "/MyPlantsTalk/static/js/2.62641990.chunk.js",
+    "static/js/2.62641990.chunk.js.map": "/MyPlantsTalk/static/js/2.62641990.chunk.js.map",
     "index.html": "/MyPlantsTalk/index.html",
-    "precache-manifest.f8b2ce10905553635286ab2fc2fbdc35.js": "/MyPlantsTalk/precache-manifest.f8b2ce10905553635286ab2fc2fbdc35.js",
+    "precache-manifest.1f543f19bd0bd47472708e05a3cac195.js": "/MyPlantsTalk/precache-manifest.1f543f19bd0bd47472708e05a3cac195.js",
     "service-worker.js": "/MyPlantsTalk/service-worker.js",
     "static/css/2.3a1b1044.chunk.css.map": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css.map",
-    "static/css/main.d48f1873.chunk.css.map": "/MyPlantsTalk/static/css/main.d48f1873.chunk.css.map",
-    "static/js/2.41a63e6c.chunk.js.LICENSE.txt": "/MyPlantsTalk/static/js/2.41a63e6c.chunk.js.LICENSE.txt",
+    "static/css/main.aae2496a.chunk.css.map": "/MyPlantsTalk/static/css/main.aae2496a.chunk.css.map",
+    "static/js/2.62641990.chunk.js.LICENSE.txt": "/MyPlantsTalk/static/js/2.62641990.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/MyPlantsTalk/static/media/1.714ec8b3.jpg",
     "static/media/19.jpg": "/MyPlantsTalk/static/media/19.5332c843.jpg",
     "static/media/2.jpg": "/MyPlantsTalk/static/media/2.904b534f.jpg",
@@ -27,6 +27,7 @@
     "static/media/Air Purifier.jpg": "/MyPlantsTalk/static/media/Air Purifier.74beb603.jpg",
     "static/media/Cacti.jpg": "/MyPlantsTalk/static/media/Cacti.03ba967d.jpg",
     "static/media/Climber.jpg": "/MyPlantsTalk/static/media/Climber.c0397fa7.jpg",
+    "static/media/Coming-Soon.jpg": "/MyPlantsTalk/static/media/Coming-Soon.45a37358.jpg",
     "static/media/D1.jpg": "/MyPlantsTalk/static/media/D1.5e9f42a4.jpg",
     "static/media/D10.jpg": "/MyPlantsTalk/static/media/D10.48fd6f94.jpg",
     "static/media/D11.jpg": "/MyPlantsTalk/static/media/D11.37519c48.jpg",
@@ -53,7 +54,8 @@
     "static/media/Pardeep.png": "/MyPlantsTalk/static/media/Pardeep.9a858085.png",
     "static/media/Prabhjot.png": "/MyPlantsTalk/static/media/Prabhjot.2a7917b4.png",
     "static/media/Raj.jpg": "/MyPlantsTalk/static/media/Raj.3ddb833b.jpg",
-    "static/media/Sneha.png": "/MyPlantsTalk/static/media/Sneha.382e5601.png",
+    "static/media/Rishab.jpeg": "/MyPlantsTalk/static/media/Rishab.66dcf6e8.jpeg",
+    "static/media/Sneha.png": "/MyPlantsTalk/static/media/Sneha.bb39ce2a.png",
     "static/media/Succulent.jpg": "/MyPlantsTalk/static/media/Succulent.758b4073.jpg",
     "static/media/Sumit.png": "/MyPlantsTalk/static/media/Sumit.6c90862d.png",
     "static/media/Tropical.jpg": "/MyPlantsTalk/static/media/Tropical.e714da85.jpg",
@@ -261,8 +263,8 @@
   "entrypoints": [
     "static/js/runtime-main.c9b86d85.js",
     "static/css/2.3a1b1044.chunk.css",
-    "static/js/2.41a63e6c.chunk.js",
-    "static/css/main.d48f1873.chunk.css",
-    "static/js/main.21f4bc66.chunk.js"
+    "static/js/2.62641990.chunk.js",
+    "static/css/main.aae2496a.chunk.css",
+    "static/js/main.bf53643e.chunk.js"
   ]
 }

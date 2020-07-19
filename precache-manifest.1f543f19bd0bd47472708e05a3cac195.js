@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "746ee5a6e097f640a426067dc9b6b714",
+    "revision": "2ad37f1fd28560d8955f75c223008e7a",
     "url": "/MyPlantsTalk/index.html"
   },
   {
-    "revision": "29ed6cd9e887c1802f3c",
+    "revision": "9e430d983f656bd566a1",
     "url": "/MyPlantsTalk/static/css/2.3a1b1044.chunk.css"
   },
   {
-    "revision": "bf4074a2179a93a0a906",
-    "url": "/MyPlantsTalk/static/css/main.d48f1873.chunk.css"
+    "revision": "bbee5805b42c75c23652",
+    "url": "/MyPlantsTalk/static/css/main.aae2496a.chunk.css"
   },
   {
-    "revision": "29ed6cd9e887c1802f3c",
-    "url": "/MyPlantsTalk/static/js/2.41a63e6c.chunk.js"
+    "revision": "9e430d983f656bd566a1",
+    "url": "/MyPlantsTalk/static/js/2.62641990.chunk.js"
   },
   {
-    "revision": "97d410e0440984da9a4e8600e9ae6996",
-    "url": "/MyPlantsTalk/static/js/2.41a63e6c.chunk.js.LICENSE.txt"
+    "revision": "885c0e205ef5e79f4aef448a818ba6a1",
+    "url": "/MyPlantsTalk/static/js/2.62641990.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf4074a2179a93a0a906",
-    "url": "/MyPlantsTalk/static/js/main.21f4bc66.chunk.js"
+    "revision": "bbee5805b42c75c23652",
+    "url": "/MyPlantsTalk/static/js/main.bf53643e.chunk.js"
   },
   {
     "revision": "ecb5d2095d437dd43944",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c0397fa7d6791fd8c62e8735916b7bbd",
     "url": "/MyPlantsTalk/static/media/Climber.c0397fa7.jpg"
+  },
+  {
+    "revision": "45a37358af8850fd91bb0472ac2c1211",
+    "url": "/MyPlantsTalk/static/media/Coming-Soon.45a37358.jpg"
   },
   {
     "revision": "2300358857aef7ec0b48a61c20f69842",
@@ -204,8 +208,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPlantsTalk/static/media/Raj.3ddb833b.jpg"
   },
   {
-    "revision": "382e560165d8fb931f9f1d0127132227",
-    "url": "/MyPlantsTalk/static/media/Sneha.382e5601.png"
+    "revision": "66dcf6e8b577ef6f5c42478f7ad68193",
+    "url": "/MyPlantsTalk/static/media/Rishab.66dcf6e8.jpeg"
+  },
+  {
+    "revision": "bb39ce2afc36fcaf998f7fb2363ed0a4",
+    "url": "/MyPlantsTalk/static/media/Sneha.bb39ce2a.png"
   },
   {
     "revision": "758b407356d14053f44879d25955d062",
